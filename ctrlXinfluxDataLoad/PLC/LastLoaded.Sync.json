@@ -5,18 +5,18 @@
   "ApplicationType": "plc",
   "Configuration": "appdata",
   "Solution": "DefaultSolution",
-  "ControllerGuid": "e1f299de-427e-4713-b3e9-c18ac3d94bcc",
-  "LastChange": 638482608684499859,
+  "ControllerGuid": "a5a71722-c34f-4e76-bdf8-80b7479da5d9",
+  "LastChange": 638590584150266721,
   "MachineName": "DESKTOP-NBS8STG",
   "UserName": "Luís",
-  "ProjectCompleteFilename": "C:\\Users\\User\\Desktop\\gitProjects\\boschRexrothCtrlX_TutorialsAndNotes\\ctrlXplcNodeRedDash\\PLC\\DashboardTest.project",
+  "ProjectCompleteFilename": "C:\\Users\\User\\Desktop\\gitProjects\\boschRexrothCtrlX_TutorialsAndNotes\\ctrlXinfluxDataLoad\\PLC\\dataToInflux.project",
   "CompilerVersion": {
     "Major": 3,
     "Minor": 5,
     "Build": 19,
-    "Revision": 60,
+    "Revision": 70,
     "MajorRevision": 0,
-    "MinorRevision": 60
+    "MinorRevision": 70
   },
   "OwnVersion": {
     "Major": 1,
@@ -27,10 +27,10 @@
     "MinorRevision": 0
   },
   "ProductAdditionalFolder": "Default",
-  "ProductProfileName": "ctrlX PLC 1.20.7",
-  "ProductId": "ctrlx-works",
-  "ProductVersion": "1.20.10",
-  "ProductVersionText": "WRK-V-0120.10",
+  "ProductProfileName": "ctrlX PLC 2.6.2",
+  "ProductId": "ctrlx-plc-engineering",
+  "ProductVersion": "2.6.4",
+  "ProductVersionText": "PLE-V-0206.4",
   "SyncModeSave": true,
   "SyncModeDownload": false,
   "SyncModeAsk": false,
@@ -40,14 +40,12 @@
     "DESKTOP-NBS8STG:Luís": {
       "MachineName": "DESKTOP-NBS8STG",
       "UserName": "Luís",
-      "ProjectCompleteFilename": "C:\\Users\\User\\Desktop\\gitProjects\\boschRexrothCtrlX_TutorialsAndNotes\\ctrlXplcNodeRedDash\\PLC\\DashboardTest.project"
+      "ProjectCompleteFilename": "C:\\Users\\User\\Desktop\\gitProjects\\boschRexrothCtrlX_TutorialsAndNotes\\ctrlXinfluxDataLoad\\PLC\\dataToInflux.project"
     }
   },
-  "CompileinfoChecksum": {
-    "6003f128-4f16-4d24-843a-09a28c5c21be": 4140445415
-  },
+  "CompileinfoChecksum": null,
   "SyncDescription": false,
-  "DeviceId": "1001 0081",
-  "DeviceVersion": "1.20.70.0",
+  "DeviceId": "1001 0080",
+  "DeviceVersion": "2.6.20.0",
   "UseIoHierachy": true
 }
