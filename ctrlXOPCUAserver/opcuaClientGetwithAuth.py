@@ -4,14 +4,14 @@ sys.path.append('./packages')
 from opcua import Client, ua
 
 # Define the OPC UA server endpoint URL
-url = "opc.tcp://192.168.1.1:4840/"
+url = "opc.tcp://192.168.1.163:4840/"
 
 # Create a client object
 client = Client(url)
 
 # Set the username and password for authentication
-username = "pass"
-password = "pass"
+username = "boschrexroth"
+password = "Equinotec2024"
 client.set_user(username)
 client.set_password(password)
 
